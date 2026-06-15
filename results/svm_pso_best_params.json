@@ -1,0 +1,43 @@
+{
+    "model": "SVM PSO",
+    "input": "24 color features",
+    "kernel": "rbf",
+    "C": 52.33147668239887,
+    "gamma": 0.017950424212579686,
+    "probability": true,
+    "random_state": 42,
+    "feature_columns": [
+        "mean_R",
+        "mean_G",
+        "mean_B",
+        "std_R",
+        "std_G",
+        "std_B",
+        "mean_H",
+        "mean_S",
+        "mean_V",
+        "std_H",
+        "std_S",
+        "std_V",
+        "mean_L",
+        "mean_a",
+        "mean_b",
+        "std_L",
+        "std_a",
+        "std_b",
+        "mean_r_norm",
+        "mean_g_norm",
+        "mean_b_norm",
+        "std_r_norm",
+        "std_g_norm",
+        "std_b_norm"
+    ],
+    "classes": [
+        "blue",
+        "green",
+        "orange",
+        "red",
+        "white",
+        "yellow"
+    ]
+}

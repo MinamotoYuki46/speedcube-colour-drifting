@@ -1,0 +1,6 @@
+model,category,input,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro
+SVM Grid Search,Machine Learning,24 color features,0.9583333333333334,0.9666666666666667,0.9583333333333334,0.9576719576719577
+SVM PSO,Machine Learning + Tuning,24 color features,0.9583333333333334,0.9666666666666667,0.9583333333333334,0.9576719576719577
+MLP,Deep Learning,24 color features,0.9537037037037037,0.9621621621621621,0.9537037037037037,0.953041434808751
+MobileNetV2 + SVM,Transfer Learning + ML,MobileNetV2 1280 visual features,0.9907407407407407,0.990990990990991,0.9907407407407408,0.9907389542735867
+EfficientNetV2-S + MLP,Transfer Learning + DL,EfficientNetV2-S 1280 visual features,1.0,1.0,1.0,1.0

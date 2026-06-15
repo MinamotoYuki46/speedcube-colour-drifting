@@ -1,0 +1,2 @@
+model,best_params,best_cv_f1_macro,training_time_seconds,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro
+SVM Grid Search,"{'svm__C': 10, 'svm__gamma': 'scale', 'svm__kernel': 'rbf'}",0.9563268537068884,31.895655870437622,0.9583333333333334,0.9666666666666667,0.9583333333333334,0.9576719576719577

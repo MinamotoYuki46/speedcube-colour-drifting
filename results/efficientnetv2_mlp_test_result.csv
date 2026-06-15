@@ -1,0 +1,2 @@
+model,category,input,best_epoch,best_validation_f1_macro,validation_accuracy,validation_precision_macro,validation_recall_macro,validation_f1_macro,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,training_time_seconds
+EfficientNetV2-S + MLP,Transfer Learning + Deep Learning,EfficientNetV2-S 1280 visual features,1,0.9953694771367934,0.9953703703703703,0.9954954954954954,0.9953703703703703,0.9953694771367934,1.0,1.0,1.0,1.0,7.204281806945801

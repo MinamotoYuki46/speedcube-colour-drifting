@@ -1,0 +1,2 @@
+model,input,best_params,best_cv_f1_macro,validation_accuracy,validation_precision_macro,validation_recall_macro,validation_f1_macro,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,training_time_seconds
+MobileNetV2 + SVM,MobileNetV2 1280 visual features,"{'svm__C': 10, 'svm__gamma': 0.0001, 'svm__kernel': 'rbf'}",0.9299429218036472,0.9953703703703703,0.9954954954954954,0.9953703703703703,0.9953694771367934,0.9907407407407407,0.990990990990991,0.9907407407407408,0.9907389542735867,728.6640205383301

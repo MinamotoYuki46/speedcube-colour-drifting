@@ -1,0 +1,2 @@
+model,input,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,best_validation_f1_macro,best_epoch,training_time_seconds
+MLP,24 color features,0.9537037037037037,0.9621621621621621,0.9537037037037037,0.953041434808751,1.0,3,14.930450439453125
